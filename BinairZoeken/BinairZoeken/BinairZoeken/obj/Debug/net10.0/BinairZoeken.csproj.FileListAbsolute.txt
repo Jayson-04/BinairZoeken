@@ -1,0 +1,15 @@
+C:\Users\jayso\Documents\BinairZoeken\BinairZoeken\BinairZoeken\bin\Debug\net10.0\BinairZoeken.exe
+C:\Users\jayso\Documents\BinairZoeken\BinairZoeken\BinairZoeken\bin\Debug\net10.0\BinairZoeken.deps.json
+C:\Users\jayso\Documents\BinairZoeken\BinairZoeken\BinairZoeken\bin\Debug\net10.0\BinairZoeken.runtimeconfig.json
+C:\Users\jayso\Documents\BinairZoeken\BinairZoeken\BinairZoeken\bin\Debug\net10.0\BinairZoeken.dll
+C:\Users\jayso\Documents\BinairZoeken\BinairZoeken\BinairZoeken\bin\Debug\net10.0\BinairZoeken.pdb
+C:\Users\jayso\Documents\BinairZoeken\BinairZoeken\BinairZoeken\obj\Debug\net10.0\BinairZoeken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayso\Documents\BinairZoeken\BinairZoeken\BinairZoeken\obj\Debug\net10.0\BinairZoeken.AssemblyInfoInputs.cache
+C:\Users\jayso\Documents\BinairZoeken\BinairZoeken\BinairZoeken\obj\Debug\net10.0\BinairZoeken.AssemblyInfo.cs
+C:\Users\jayso\Documents\BinairZoeken\BinairZoeken\BinairZoeken\obj\Debug\net10.0\BinairZoeken.csproj.CoreCompileInputs.cache
+C:\Users\jayso\Documents\BinairZoeken\BinairZoeken\BinairZoeken\obj\Debug\net10.0\BinairZoeken.dll
+C:\Users\jayso\Documents\BinairZoeken\BinairZoeken\BinairZoeken\obj\Debug\net10.0\refint\BinairZoeken.dll
+C:\Users\jayso\Documents\BinairZoeken\BinairZoeken\BinairZoeken\obj\Debug\net10.0\BinairZoeken.pdb
+C:\Users\jayso\Documents\BinairZoeken\BinairZoeken\BinairZoeken\obj\Debug\net10.0\BinairZoeken.genruntimeconfig.cache
+C:\Users\jayso\Documents\BinairZoeken\BinairZoeken\BinairZoeken\obj\Debug\net10.0\ref\BinairZoeken.dll
+C:\Users\jayso\Documents\BinairZoeken\BinairZoeken\BinairZoeken\obj\Debug\net10.0\BinairZo.66268CBA.Up2Date
